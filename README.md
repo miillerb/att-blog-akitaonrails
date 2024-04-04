@@ -8,3 +8,7 @@ Ajustando o blog AkitaOnRails para padrões de design mais atuais e harmônicos.
 ## Elementos
 
 ![site atual](assets/image.png)
+
+## Documentação
+[Docs](doc/docs.md)
+
